@@ -1,0 +1,5 @@
+```java
+Random random = new Random();
+int i = random.nextInt(3);
+System.out.println(i);  // 随机输出 0 1 2
+```
